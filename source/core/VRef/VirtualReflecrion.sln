@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VR Node", "VR Node\VR Node.vcproj", "{BC81798F-88E4-4F5A-A9F3-EC1F20A6AE30}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VR World", "VR World\VR World.vcproj", "{A5099528-23C2-41B0-8D96-FBBB99E9FCA5}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VR Tool", "VR Tool\VR Tool.vcproj", "{F3A45071-40D7-4C6F-8D71-6A688A045354}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VR Client", "VR Client\VR Client.vcproj", "{9363E73F-36D4-4AD0-82ED-9E38432A49DF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VR arena", "VR arena\VR arena.vcproj", "{DFFD82DD-FB1E-4CAF-82FC-648FA78846B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC81798F-88E4-4F5A-A9F3-EC1F20A6AE30}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BC81798F-88E4-4F5A-A9F3-EC1F20A6AE30}.Debug|Win32.Build.0 = Debug|Win32
+		{BC81798F-88E4-4F5A-A9F3-EC1F20A6AE30}.Release|Win32.ActiveCfg = Release|Win32
+		{BC81798F-88E4-4F5A-A9F3-EC1F20A6AE30}.Release|Win32.Build.0 = Release|Win32
+		{A5099528-23C2-41B0-8D96-FBBB99E9FCA5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A5099528-23C2-41B0-8D96-FBBB99E9FCA5}.Debug|Win32.Build.0 = Debug|Win32
+		{A5099528-23C2-41B0-8D96-FBBB99E9FCA5}.Release|Win32.ActiveCfg = Release|Win32
+		{A5099528-23C2-41B0-8D96-FBBB99E9FCA5}.Release|Win32.Build.0 = Release|Win32
+		{F3A45071-40D7-4C6F-8D71-6A688A045354}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F3A45071-40D7-4C6F-8D71-6A688A045354}.Debug|Win32.Build.0 = Debug|Win32
+		{F3A45071-40D7-4C6F-8D71-6A688A045354}.Release|Win32.ActiveCfg = Release|Win32
+		{F3A45071-40D7-4C6F-8D71-6A688A045354}.Release|Win32.Build.0 = Release|Win32
+		{9363E73F-36D4-4AD0-82ED-9E38432A49DF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9363E73F-36D4-4AD0-82ED-9E38432A49DF}.Debug|Win32.Build.0 = Debug|Win32
+		{9363E73F-36D4-4AD0-82ED-9E38432A49DF}.Release|Win32.ActiveCfg = Release|Win32
+		{9363E73F-36D4-4AD0-82ED-9E38432A49DF}.Release|Win32.Build.0 = Release|Win32
+		{DFFD82DD-FB1E-4CAF-82FC-648FA78846B1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DFFD82DD-FB1E-4CAF-82FC-648FA78846B1}.Debug|Win32.Build.0 = Debug|Win32
+		{DFFD82DD-FB1E-4CAF-82FC-648FA78846B1}.Release|Win32.ActiveCfg = Release|Win32
+		{DFFD82DD-FB1E-4CAF-82FC-648FA78846B1}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
